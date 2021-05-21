@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/mavenproject2">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxActive="20" maxIdle="10" maxWait="-1" name="1" password="6077832Gt" type="javax.sql.DataSource" url="jdbc:sqlserver://DESKTOP-BBIP82H\SQLEXPRESS:1433;databaseName=productdb" username="sa"/>
+</Context>
